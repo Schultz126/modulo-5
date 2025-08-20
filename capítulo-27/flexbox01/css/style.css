@@ -2,6 +2,12 @@
 
 div#container {
     display: flex;
+    /*
+    flex-direction: row;
+    flex-wrap: wrap;
+    */ 
+    /* Shorthan para os dois comandos acima: */
+    flex-flow: row wrap;
     background-color: antiquewhite;
 }
 
@@ -9,6 +15,10 @@ div.item {
     flex: auto;
     background-color: aqua;
     border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 1px 1px 9px 1px rgba(0, 0, 0, 0.248);
     margin: 10px;
     text-align: center;
+    width: 200px;
+    height: 100px;
 }
