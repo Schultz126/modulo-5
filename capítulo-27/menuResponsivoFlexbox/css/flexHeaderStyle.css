@@ -5,6 +5,12 @@
     padding: 0px;
 }
 
+@media screen and (max-width: 460px){
+    .listItem {
+        font-size: 0.8rem;
+    }
+}
+
 @media screen and (max-width: 520px){
     .listItem {
         font-size: 0.9rem;
