@@ -6,6 +6,13 @@
     }
 }
 
+@media screen and (max-width: 460px){
+    main {
+       padding: 15px ;
+    }
+}
+
+
 body{
     background-color: lightgray;
 }
