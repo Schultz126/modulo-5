@@ -5,6 +5,12 @@
     padding: 0px;
 }
 
+@media screen and (max-width: 520px){
+    .listItem {
+        font-size: 0.9rem;
+    }
+}
+
 header {
     background-color: rgba(128, 128, 128, 0.642);
     border: 1px solid black;
