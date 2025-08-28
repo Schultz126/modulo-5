@@ -1,8 +1,13 @@
 @charset "UTF-8";
 
-body,html {
+@media screen and (max-width: 700px){
+    body,html {
+        max-width: 100dvh;
+    }
+}
+
+body{
     background-color: lightgray;
-    max-width: 100dvh;
 }
 
 main {
