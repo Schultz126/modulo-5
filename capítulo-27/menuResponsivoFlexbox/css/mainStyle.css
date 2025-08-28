@@ -1,7 +1,8 @@
 @charset "UTF-8";
 
-body {
+body,html {
     background-color: lightgray;
+    max-width: 100dvh;
 }
 
 main {
