@@ -18,6 +18,15 @@
     }
 }
 
+@media screen and (max-width: 430px){
+    #frameVideo {
+        padding: 0px;
+        margin: 0px;
+        width: 330px;
+        height: 155px;
+    }
+}
+
 @media screen and (min-width: 1201px) {
     #techImage  {
         margin-right: 100px;
