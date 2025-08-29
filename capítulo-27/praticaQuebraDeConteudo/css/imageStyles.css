@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+div#techImage {
+    flex: 0 0 250px;
+    background: url('../imagens/360_F_789463569_PFOIT2kITF76JFmcKOSKnIu398zRUurr.jpg') center center;
+    border-radius: 500px;
+    width: 250px;
+    height: 250px;
+}
